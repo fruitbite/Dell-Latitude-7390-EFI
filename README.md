@@ -1,18 +1,25 @@
 # Dell-Latitude-7390-EFI
 
-Ventura 13.2 Tested
+## Tested Versions
 
-What works:
+[X] Ventura
 
-Keyboard
-Graphics Acceleration
-Battery Monitoring
-USB Ports
-Ethernet
-Brightness Slider
+## What works
 
-What doesn't work:
+- [X] Keyboard
 
-Trackpad
-Wifi
-Sound
+- [X] Graphics Acceleration
+
+- [X] Battery Monitoring
+
+- [X] USB Ports
+
+- [X] Ethernet
+
+- [X] Brightness Slider
+
+- [ ] Trackpad
+
+- [X] Wifi
+
+- [X] Sound
