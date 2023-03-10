@@ -2,7 +2,7 @@
 
 ## Tested Versions
 
-[X] Ventura
+- [X] Ventura
 
 ## What works
 
